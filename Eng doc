@@ -1,24 +1,49 @@
-The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!
+The Hello World project is a time-honored tradition in computer programming.
+这个Hello World 项目是一个历史悠久的编程界的传统。
+It is a simple exercise that gets you started when learning something new.
+它通过一些简单的练习帮助你开始入门学习一些新的东西。
+Let’s get started with GitHub!
+让我们开始使用Github吧！
 
 You’ll learn how to:
+你将学会：
 
 Create and use a repository
+创建和使用仓库
 Start and manage a new branch
+开始和管理新的分支
 Make changes to a file and push them to GitHub as commits
+修改文件并将它推送到gitHub托管。
 Open and merge a pull request
+打开和合并一个推送亲求。
 
 What is GitHub?
-GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+什么是GitHub?
+GitHub is a code hosting platform for version control and collaboration. 
+GitHub 是一个代码版本管理和维护托管平台。
 
-This tutorial teaches you GitHub essentials like repositories, branches, commits, and Pull Requests. You’ll create your own Hello World repository and learn GitHub’s Pull Request workflow, a popular way to create and review code.
+It lets you and others work together on projects from anywhere.
+它使你可以在任何地方都可以和其他人协作完成项目。
 
+This tutorial teaches you GitHub essentials like repositories, branches, commits, and Pull Requests.
+这个向导，帮助你认识github的相关要点，例如仓库，分支，提交和合并请求等。
+
+You’ll create your own Hello World repository and learn GitHub’s Pull Request workflow, a popular way to create and review code.
+你将创建你自己的Hello World 仓库并学习GitHub的合并请求工作流————一种创建和复查代码的流行的方法。
 No coding necessary
+而非只用于编码。（例如翻译文章等适合版本和团队项目都可以）
 
-To complete this tutorial, you need a GitHub.com account and Internet access. You don’t need to know how to code, use the command line, or install Git (the version control software GitHub is built on).
+To complete this tutorial, you need a GitHub.com account and Internet access. You don’t need to know how to code, 
+use the command line, or install Git (the version control software GitHub is built on).
+为了完整这个训练，你需要一个GitHub账号，并可以联网。你不需要知道怎吗写程序代码，不需要知道怎样使用命令行，
+也不需要安装Git（这些GitHub已经集成到一起了）。
 
 Tip: Open this guide in a separate browser window (or tab) so you can see it while you complete the steps in the tutorial.
+提示：在新的窗口或标签页打开这个向导，以便您一边阅读一边完成训练步骤。
 
 Step 1. Create a Repository
+步骤1，创建仓库。
+
 A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. It also offers other common options such as a license file.
 
 Your hello-world repository can be a place where you store ideas, resources, or even share and discuss things with others.
