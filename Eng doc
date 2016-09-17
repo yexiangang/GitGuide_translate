@@ -44,27 +44,51 @@ Tip: Open this guide in a separate browser window (or tab) so you can see it whi
 Step 1. Create a Repository
 步骤1，创建仓库。
 
-A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. It also offers other common options such as a license file.
+A repository is usually used to organize a single project. 
+一个仓库通常被用来组织一个单独的项目，
+Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs.
+仓库可以包含文件和文件夹，图片，视频，电子表格和数据--他可以是任何你项目需要的文件。
+We recommend including a README, or a file with information about your project. 
+我们推荐项目中要包含一个说明文档，用来描述项目。
+GitHub makes it easy to add one at the same time you create your new repository.
+GitHub 会在您创建仓库时为您创建一个说明文档。
+It also offers other common options such as a license file.
+它还支持其他通用设置，例如授权文件。
 
 Your hello-world repository can be a place where you store ideas, resources, or even share and discuss things with others.
+您的Hello-world 仓库可以成为您存储创意，资源，甚至是和其他用户分享和讨论记录。
 
 To create a new repository
+创建一个新的仓库
 
 In the upper right corner, next to your avatar or identicon, click  and then select New repository.
+在右上角，头像叛变，点击选择新的仓库。
 Name your repository hello-world.
+命名仓库名称为“Hello-world”
 Write a short description.
+记录一个简短的描述
 Select Initialize this repository with a README.
+选择初始化仓库包含说明文档
+
+（下面的文字包含截图，没有复制过来，暂不翻译）
 new-repo-form
 
 Click Create repository. :tada:
 
 
 Step 2. Create a Branch
+第二步：创建分支。
+
 Branching is the way to work on different versions of a repository at one time.
-
-By default your repository has one branch named master which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to master.
-
-When you create a branch off the master branch, you’re making a copy, or snapshot, of master as it was at that point in time. If someone else made changes to the master branch while you were working on your branch, you could pull in those updates.
+分支使我们可以同时在同一仓库工作在不同的版本上
+By default your repository has one branch named master which is considered to be the definitive branch. 
+默认情况下，您的藏虎拥有一个名为master的分支，这个被认为是主分支。
+We use branches to experiment and make edits before committing them to master.
+我们再提交版本到主分支钱，使用分支来实验和编辑。
+When you create a branch off the master branch, you’re making a copy, or snapshot, of master as it was at that point in time. 
+当你从主分支创建一个新的分支后，你创建了一个复制或一个快照，和主分支在这个时间点完全一致。
+If someone else made changes to the master branch while you were working on your branch, you could pull in those updates.
+如果其他人在你改变你的分支的同时，修改了主分支，你可以更新这些变更。
 
 This diagram shows:
 
