@@ -1,0 +1,1 @@
+# GitGuide_translate
